@@ -1,4 +1,3 @@
-// ✅ 여러 개의 복잡한 서브시스템들
 class TV {
     turnOn() {
         return "TV가 켜졌습니다";
@@ -15,7 +14,6 @@ class Speaker {
     }
 }
 
-// ✅ 퍼사드 클래스: 복잡한 서브시스템을 단일 인터페이스로 묶음
 export class SmartHomeFacade {
     private tv = new TV();
     private light = new Light();
