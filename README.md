@@ -1,5 +1,12 @@
-# Vue 3 + TypeScript + Vite
+#객체지향 디자인 패턴 
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+src/patterns에 
+1. 생성패턴
+   - builder를 이용한 피자 만들기 예제
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+2. 구조패턴
+   - Facade를 이용한 간단한 저녁모드 실행
+  
+3. 행위패턴
+   - State를 이용한 간단한 전원 스위치 끄기/켜기 기능
+   
